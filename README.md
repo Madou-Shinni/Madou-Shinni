@@ -2,7 +2,7 @@
 
 **关于我**
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Madou-Shinni&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madou-Shinni&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Madou-Shinni&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madou-Shinni&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 **languages and tools:**  
